@@ -1,0 +1,21 @@
+{
+  "ADJ": "Adjective",
+  "ADP": "Adverb",
+  "ADV": "Adverb",
+  "AUX": "Auxiliary",
+  "CONJ": "Conjunction",
+  "CCONJ": "Coordinating Conjunction",
+  "DET": "Determiner",
+  "INTJ": "Interjection",
+  "NOUN": "Noun",
+  "NUM": "Numeral",
+  "PART": "Particle",
+  "PRON": "Pronoun",
+  "PROPN": "Proper Noun",
+  "PUNCT": "Punctuation",
+  "SCONJ": "Subordinating Conjunction",
+  "SYM": "Symbol",
+  "VERB": "Verb",
+  "X": "Other",
+  "SPACE": "Space"
+}

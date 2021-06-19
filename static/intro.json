@@ -1,0 +1,6 @@
+[
+  "Hello! This is an web application made by Grantham Taylor. This web page is being rendered with Python/Flask. Real time group messages via Socket are disabled and your data is not stored anywhere other than your web browser.",
+  "This is primarily a hacky demo of Spacy, an open source framework developed to process natural language. You can hover your mouse over each word for more information like parts-of-speech and lemmatization. Filler words and punctuation are rendered with partial transparency.",
+  "Named entities (people, places, groups, locations, datetimes, etc) have a glowing effect. You can hover them to learn about how Spacy's machine learning functionality contextually interprets them. For example: greenville Is Beautiful in august, ESPECIALLY early in the morning.",
+  "Using the functionality provided by Spacy, I trained two models to classify each message. The first model is an emotion classifier. As opposed to sentiment analysis, emotional analysis yields multi-class outputs (angry, sad, afraid, joyful, or neutral). The output from this model is displayed as an emoji next to each message. Hover over the emoji for more detail on how the model classified the message! The second model is a toxicity classifier. Messages that are overly aggressive will be blurred out unless hovered over."
+]

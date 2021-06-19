@@ -1,0 +1,20 @@
+{
+  "PERSON": "Person",
+  "NORP": "Group of People",
+  "FAC": "Notable Manmade Facility",
+  "ORG": "Generic",
+  "GPE": "Geopolitical Region",
+  "LOC": "Geographical Region",
+  "PRODUCT": "Product",
+  "EVENT": "Event",
+  "WORK_OF_ART": "Work of Art",
+  "LAW": "Legal Document",
+  "LANGUAGE": "Language",
+  "DATE": "Date",
+  "TIME": "Time",
+  "PERCENT": "Percentage",
+  "MONEY": "Monetary Value",
+  "QUANTITY": "Measurement",
+  "ORDINAL": "Ordinal Rank",
+  "CARDINAL": "Miscellaneous Value"
+}
